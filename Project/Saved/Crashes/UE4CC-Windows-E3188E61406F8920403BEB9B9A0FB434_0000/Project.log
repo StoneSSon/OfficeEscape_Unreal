@@ -1,0 +1,1060 @@
+﻿Log file open, 06/03/19 07:05:46
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Project
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.557808
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +9:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-6063286
+LogInit: Engine Version: 4.22.1-6063286+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1803) (), CPU: Intel(R) Xeon(R) CPU E3-1231 v3 @ 3.40GHz, GPU: NVIDIA GeForce GTX 1050
+LogInit: Compiled (64-bit): Apr 24 2019 04:36:48
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.06.02-22.05.47:363][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.06.02-22.05.47:363][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.06.02-22.05.47:363][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/direc/Desktop/OfficeEscape_Unreal/empty/OfficeEscape_Unreal/Project/Saved/Config/Windows/Engine.ini]
+[2019.06.02-22.05.47:363][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.06.02-22.05.47:363][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/direc/Desktop/OfficeEscape_Unreal/empty/OfficeEscape_Unreal/Project/Saved/Config/Windows/Engine.ini]
+[2019.06.02-22.05.47:363][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/direc/Desktop/OfficeEscape_Unreal/empty/OfficeEscape_Unreal/Project/Saved/Config/Windows/Engine.ini]
+[2019.06.02-22.05.47:363][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.06.02-22.05.47:363][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.06.02-22.05.47:363][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.06.02-22.05.47:364][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.06.02-22.05.47:364][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.06.02-22.05.47:364][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.06.02-22.05.47:364][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.06.02-22.05.47:364][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.06.02-22.05.47:364][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.06.02-22.05.47:364][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.06.02-22.05.47:364][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.06.02-22.05.47:364][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.06.02-22.05.47:364][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.06.02-22.05.47:364][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/direc/Desktop/OfficeEscape_Unreal/empty/OfficeEscape_Unreal/Project/Saved/Config/Windows/Engine.ini]
+[2019.06.02-22.05.47:364][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.06.02-22.05.47:364][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.06.02-22.05.47:364][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.06.02-22.05.47:364][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.06.02-22.05.47:364][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.06.02-22.05.47:364][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.06.02-22.05.47:364][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.06.02-22.05.47:364][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.06.02-22.05.47:364][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.06.02-22.05.47:364][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.06.02-22.05.47:364][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.06.02-22.05.47:364][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.06.02-22.05.47:364][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.06.02-22.05.47:364][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/direc/Desktop/OfficeEscape_Unreal/empty/OfficeEscape_Unreal/Project/Saved/Config/Windows/Engine.ini]
+[2019.06.02-22.05.47:364][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/direc/Desktop/OfficeEscape_Unreal/empty/OfficeEscape_Unreal/Project/Saved/Config/Windows/Engine.ini]
+[2019.06.02-22.05.47:374][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/direc/Desktop/OfficeEscape_Unreal/empty/OfficeEscape_Unreal/Project/Saved/Config/Windows/Scalability.ini]
+[2019.06.02-22.05.47:374][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.06.02-22.05.47:374][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.06.02-22.05.47:374][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/direc/Desktop/OfficeEscape_Unreal/empty/OfficeEscape_Unreal/Project/Saved/Config/Windows/Scalability.ini]
+[2019.06.02-22.05.47:375][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.06.02-22.05.47:375][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/direc/Desktop/OfficeEscape_Unreal/empty/OfficeEscape_Unreal/Project/Saved/Config/Windows/Scalability.ini]
+[2019.06.02-22.05.47:375][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.06.02-22.05.47:375][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.06.02-22.05.47:375][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.06.02-22.05.47:375][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.06.02-22.05.47:375][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.06.02-22.05.47:375][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.06.02-22.05.47:375][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.06.02-22.05.47:375][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.06.02-22.05.47:375][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.06.02-22.05.47:375][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.06.02-22.05.47:375][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.06.02-22.05.47:375][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.06.02-22.05.47:375][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.06.02-22.05.47:375][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.06.02-22.05.47:375][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.06.02-22.05.47:375][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.06.02-22.05.47:375][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.06.02-22.05.47:375][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.06.02-22.05.47:375][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/direc/Desktop/OfficeEscape_Unreal/empty/OfficeEscape_Unreal/Project/Saved/Config/Windows/Scalability.ini]
+[2019.06.02-22.05.47:375][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.06.02-22.05.47:375][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.06.02-22.05.47:375][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.06.02-22.05.47:375][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.06.02-22.05.47:375][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.06.02-22.05.47:375][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.06.02-22.05.47:375][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.06.02-22.05.47:376][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.06.02-22.05.47:376][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.06.02-22.05.47:376][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.06.02-22.05.47:376][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.06.02-22.05.47:376][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.06.02-22.05.47:376][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.06.02-22.05.47:376][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.06.02-22.05.47:376][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.06.02-22.05.47:376][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.06.02-22.05.47:376][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.06.02-22.05.47:376][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.06.02-22.05.47:376][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.06.02-22.05.47:376][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.06.02-22.05.47:376][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.06.02-22.05.47:376][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.06.02-22.05.47:376][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.06.02-22.05.47:376][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.06.02-22.05.47:376][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.06.02-22.05.47:376][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.06.02-22.05.47:376][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.06.02-22.05.47:376][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.06.02-22.05.47:376][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.06.02-22.05.47:376][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.06.02-22.05.47:376][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/direc/Desktop/OfficeEscape_Unreal/empty/OfficeEscape_Unreal/Project/Saved/Config/Windows/Scalability.ini]
+[2019.06.02-22.05.47:376][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.06.02-22.05.47:376][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.06.02-22.05.47:376][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.06.02-22.05.47:376][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.06.02-22.05.47:376][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.06.02-22.05.47:376][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.06.02-22.05.47:377][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.06.02-22.05.47:377][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.06.02-22.05.47:377][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/direc/Desktop/OfficeEscape_Unreal/empty/OfficeEscape_Unreal/Project/Saved/Config/Windows/Scalability.ini]
+[2019.06.02-22.05.47:377][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.06.02-22.05.47:377][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.06.02-22.05.47:377][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.06.02-22.05.47:377][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.06.02-22.05.47:377][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.06.02-22.05.47:377][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.06.02-22.05.47:377][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.06.02-22.05.47:377][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.06.02-22.05.47:377][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.06.02-22.05.47:377][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.06.02-22.05.47:377][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.06.02-22.05.47:377][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.06.02-22.05.47:377][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.06.02-22.05.47:377][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/direc/Desktop/OfficeEscape_Unreal/empty/OfficeEscape_Unreal/Project/Saved/Config/Windows/Scalability.ini]
+[2019.06.02-22.05.47:377][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.06.02-22.05.47:377][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.06.02-22.05.47:377][  0]LogInit: Selected Device Profile: [Windows]
+[2019.06.02-22.05.47:377][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.06.02-22.05.47:399][  0]LogHAL: Display: Platform has ~ 16 GB [17114804224 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.06.02-22.05.47:399][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2019.06.02-22.05.47:399][  0]LogInit: Going up to parent DeviceProfile []
+[2019.06.02-22.05.47:399][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/direc/Desktop/OfficeEscape_Unreal/empty/OfficeEscape_Unreal/Project/Saved/Config/Windows/Scalability.ini]
+[2019.06.02-22.05.47:399][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.06.02-22.05.47:399][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.06.02-22.05.47:399][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/direc/Desktop/OfficeEscape_Unreal/empty/OfficeEscape_Unreal/Project/Saved/Config/Windows/Scalability.ini]
+[2019.06.02-22.05.47:399][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.06.02-22.05.47:399][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/direc/Desktop/OfficeEscape_Unreal/empty/OfficeEscape_Unreal/Project/Saved/Config/Windows/Scalability.ini]
+[2019.06.02-22.05.47:399][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.06.02-22.05.47:399][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.06.02-22.05.47:399][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.06.02-22.05.47:399][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.06.02-22.05.47:399][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.06.02-22.05.47:399][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.06.02-22.05.47:399][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.06.02-22.05.47:399][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.06.02-22.05.47:399][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.06.02-22.05.47:399][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.06.02-22.05.47:400][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.06.02-22.05.47:400][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.06.02-22.05.47:400][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.06.02-22.05.47:400][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.06.02-22.05.47:400][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.06.02-22.05.47:400][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.06.02-22.05.47:400][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.06.02-22.05.47:400][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.06.02-22.05.47:400][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/direc/Desktop/OfficeEscape_Unreal/empty/OfficeEscape_Unreal/Project/Saved/Config/Windows/Scalability.ini]
+[2019.06.02-22.05.47:400][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.06.02-22.05.47:400][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.06.02-22.05.47:400][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.06.02-22.05.47:400][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.06.02-22.05.47:400][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.06.02-22.05.47:400][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.06.02-22.05.47:400][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.06.02-22.05.47:400][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.06.02-22.05.47:400][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.06.02-22.05.47:400][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.06.02-22.05.47:400][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.06.02-22.05.47:400][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.06.02-22.05.47:400][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.06.02-22.05.47:400][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.06.02-22.05.47:400][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.06.02-22.05.47:401][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.06.02-22.05.47:401][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.06.02-22.05.47:401][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.06.02-22.05.47:401][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.06.02-22.05.47:401][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.06.02-22.05.47:401][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.06.02-22.05.47:401][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.06.02-22.05.47:401][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.06.02-22.05.47:401][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.06.02-22.05.47:401][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.06.02-22.05.47:401][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.06.02-22.05.47:401][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.06.02-22.05.47:401][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.06.02-22.05.47:401][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.06.02-22.05.47:401][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.06.02-22.05.47:402][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/direc/Desktop/OfficeEscape_Unreal/empty/OfficeEscape_Unreal/Project/Saved/Config/Windows/Scalability.ini]
+[2019.06.02-22.05.47:402][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.06.02-22.05.47:402][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.06.02-22.05.47:402][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.06.02-22.05.47:402][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.06.02-22.05.47:402][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.06.02-22.05.47:402][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.06.02-22.05.47:402][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.06.02-22.05.47:402][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.06.02-22.05.47:402][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/direc/Desktop/OfficeEscape_Unreal/empty/OfficeEscape_Unreal/Project/Saved/Config/Windows/Scalability.ini]
+[2019.06.02-22.05.47:402][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.06.02-22.05.47:402][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.06.02-22.05.47:402][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.06.02-22.05.47:402][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.06.02-22.05.47:402][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.06.02-22.05.47:402][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.06.02-22.05.47:402][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.06.02-22.05.47:402][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.06.02-22.05.47:402][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.06.02-22.05.47:402][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.06.02-22.05.47:402][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.06.02-22.05.47:402][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.06.02-22.05.47:402][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.06.02-22.05.47:402][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/direc/Desktop/OfficeEscape_Unreal/empty/OfficeEscape_Unreal/Project/Saved/Config/Windows/Scalability.ini]
+[2019.06.02-22.05.47:402][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.06.02-22.05.47:402][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.06.02-22.05.47:402][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.06.02-22.05.47:403][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.06.02-22.05.47:403][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.06.02-22.05.47:403][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/direc/Desktop/OfficeEscape_Unreal/empty/OfficeEscape_Unreal/Project/Saved/Config/Windows/Engine.ini]
+[2019.06.02-22.05.47:404][  0]LogInit: Computer: DESKTOP-ALB4R9T
+[2019.06.02-22.05.47:404][  0]LogInit: User: direc
+[2019.06.02-22.05.47:404][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.06.02-22.05.47:404][  0]LogInit: High frequency timer resolution =3.312645 MHz
+[2019.06.02-22.05.47:405][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.06.02-22.05.47:405][  0]LogMemory: Platform Memory Stats for Windows
+[2019.06.02-22.05.47:405][  0]LogMemory: Process Physical Memory: 101.02 MB used, 101.02 MB peak
+[2019.06.02-22.05.47:405][  0]LogMemory: Process Virtual Memory: 98.50 MB used, 98.50 MB peak
+[2019.06.02-22.05.47:405][  0]LogMemory: Physical Memory: 3842.35 MB used,  12479.60 MB free, 16321.95 MB total
+[2019.06.02-22.05.47:405][  0]LogMemory: Virtual Memory: 4672.71 MB used,  134213056.00 MB free, 134217728.00 MB total
+[2019.06.02-22.05.47:535][  0]LogInit: Using OS detected language (ko-KR).
+[2019.06.02-22.05.47:535][  0]LogInit: Using OS detected locale (ko-KR).
+[2019.06.02-22.05.47:538][  0]LogTextLocalizationManager: No specific localization for 'ko-KR' exists, so the 'ko' localization will be used.
+[2019.06.02-22.05.47:750][  0]LogInit: Setting process to per monitor DPI aware
+[2019.06.02-22.05.47:836][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.06.02-22.05.47:836][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.06.02-22.05.48:656][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.06.02-22.05.48:656][  0]LogD3D11RHI: D3D11 adapters:
+[2019.06.02-22.05.48:797][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050' (Feature Level 11_0)
+[2019.06.02-22.05.48:797][  0]LogD3D11RHI:       1977/0/8160 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.06.02-22.05.48:803][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.06.02-22.05.48:803][  0]LogD3D11RHI:       0/0/8160 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.06.02-22.05.48:803][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.06.02-22.05.48:816][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.06.02-22.05.48:816][  0]LogD3D11RHI:     GPU DeviceId: 0x1c81 (for the marketing name, search the web for "GPU Device Id")
+[2019.06.02-22.05.48:817][  0]LogWindows: EnumDisplayDevices:
+[2019.06.02-22.05.48:817][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1050' (P:1 D:1)
+[2019.06.02-22.05.48:820][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1050' (P:0 D:0)
+[2019.06.02-22.05.48:822][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1050' (P:0 D:0)
+[2019.06.02-22.05.48:825][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1050' (P:0 D:0)
+[2019.06.02-22.05.48:827][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.06.02-22.05.48:827][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050
+[2019.06.02-22.05.48:827][  0]LogD3D11RHI:   Driver Version: 398.11 (internal:24.21.13.9811, unified:398.11)
+[2019.06.02-22.05.48:827][  0]LogD3D11RHI:      Driver Date: 6-1-2018
+[2019.06.02-22.05.48:827][  0]LogRHI: Texture pool is 1384 MB (70% of 1977 MB)
+[2019.06.02-22.05.49:007][  0]LogD3D11RHI: Async texture creation enabled
+[2019.06.02-22.05.49:165][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.06.02-22.05.49:166][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.06.02-22.05.49:166][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.06.02-22.05.49:180][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.06.02-22.05.50:289][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.06.02-22.05.50:341][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.06.02-22.05.50:375][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.06.02-22.05.50:408][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.06.02-22.05.50:441][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.06.02-22.05.50:476][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.06.02-22.05.50:525][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.06.02-22.05.50:578][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.06.02-22.05.50:603][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.06.02-22.05.50:775][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.06.02-22.05.50:775][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.06.02-22.05.50:775][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.06.02-22.05.50:775][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.06.02-22.05.50:775][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.06.02-22.05.50:775][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.06.02-22.05.50:775][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.06.02-22.05.50:775][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.06.02-22.05.50:775][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.06.02-22.05.50:775][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.06.02-22.05.50:775][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.06.02-22.05.50:775][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.06.02-22.05.50:775][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.06.02-22.05.50:775][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.06.02-22.05.50:775][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.06.02-22.05.50:775][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.06.02-22.05.50:775][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.06.02-22.05.50:775][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.06.02-22.05.50:781][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.06.02-22.05.50:861][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.06.02-22.05.50:861][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.06.02-22.05.50:910][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.06.02-22.05.50:910][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.06.02-22.05.50:932][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.06.02-22.05.50:953][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.06.02-22.05.50:980][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.06.02-22.05.51:009][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.06.02-22.05.51:073][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.06.02-22.05.51:073][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.06.02-22.05.51:073][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.06.02-22.05.51:098][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.06.02-22.05.51:247][  0]LogShaderCompilers: Guid format shader working directory is -46 characters bigger than the processId version (../../../../../../Users/direc/Desktop/OfficeEscape_Unreal/empty/OfficeEscape_Unreal/Project/Intermediate/Shaders/WorkingDirectory/11884/).
+[2019.06.02-22.05.51:248][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/direc/AppData/Local/Temp/UnrealShaderWorkingDir/E3AE682F48C7B2CA71BB5E9A602729B1/'.
+[2019.06.02-22.05.51:255][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.06.02-22.05.51:255][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.06.02-22.05.51:255][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.06.02-22.05.52:083][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.06.02-22.05.52:190][  0]LogDerivedDataCache: Loaded boot cache 0.11s 71MB C:/Users/direc/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.06.02-22.05.52:190][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/direc/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2019.06.02-22.05.52:191][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/direc/Desktop/OfficeEscape_Unreal/empty/OfficeEscape_Unreal/Project/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.06.02-22.05.52:191][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.06.02-22.05.52:191][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/direc/Desktop/OfficeEscape_Unreal/empty/OfficeEscape_Unreal/Project/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.06.02-22.05.52:191][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.06.02-22.05.52:209][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.06.02-22.05.52:209][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.06.02-22.05.52:210][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.06.02-22.05.52:223][  0]LogDerivedDataCache: Using Local data cache path C:/Users/direc/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.06.02-22.05.52:223][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.06.02-22.05.52:223][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.06.02-22.05.52:254][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.06.02-22.05.52:255][  0]LogSlate: Using FreeType 2.6.0
+[2019.06.02-22.05.52:257][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.06.02-22.05.52:464][  0]LogAssetRegistry: FAssetRegistry took 0.0436 seconds to start up
+[2019.06.02-22.05.53:263][  0]LogInit: Selected Device Profile: [Windows]
+[2019.06.02-22.05.53:572][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.06.02-22.05.53:572][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.06.02-22.05.53:572][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.06.02-22.05.53:572][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.06.02-22.05.53:572][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.06.02-22.05.53:598][  0]LogNetVersion: Project 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 294953092)
+[2019.06.02-22.05.54:313][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.095381 seconds
+[2019.06.02-22.05.54:324][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2019.06.02-22.05.54:324][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2019.06.02-22.05.54:324][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.06.02-22.05.57:941][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.06.02-22.05.57:962][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.06.02-22.05.58:439][  0]SourceControl: 소스 컨트롤이 꺼져 있습니다.
+[2019.06.02-22.05.58:440][  0]SourceControl: 소스 컨트롤이 꺼져 있습니다.
+[2019.06.02-22.05.58:452][  0]SourceControl: 소스 컨트롤이 꺼져 있습니다.
+[2019.06.02-22.05.58:460][  0]SourceControl: 소스 컨트롤이 꺼져 있습니다.
+[2019.06.02-22.05.58:879][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.06.02-22.05.59:460][  0]LogOcInput: OculusInput pre-init called
+[2019.06.02-22.06.02:209][  0]LogEngine: Initializing Engine...
+[2019.06.02-22.06.02:212][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.06.02-22.06.02:215][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.001 s
+[2019.06.02-22.06.02:802][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.06.02-22.06.02:860][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.06.02-22.06.03:022][  0]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.02-22.06.03:175][  0]LogInit: FAudioDevice initialized.
+[2019.06.02-22.06.03:175][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.06.02-22.06.03:321][  0]LogDerivedDataCache: Saved boot cache 0.15s 71MB C:/Users/direc/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.06.02-22.06.03:322][  0]LogInit: Texture streaming: Enabled
+[2019.06.02-22.06.03:404][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.06.02-22.06.03:495][  0]LogInit: Transaction tracking system initialized
+[2019.06.02-22.06.03:609][  0]BlueprintLog: New page: 에디터 로드
+[2019.06.02-22.06.04:057][  0]LocalizationService: 현지화 서비스가 비활성화되었습니다.
+[2019.06.02-22.06.04:958][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.06.02-22.06.04:958][  0]LogCook: Display: Mobile HDR setting 1
+[2019.06.02-22.06.05:638][  0]LogFileCache: Scanning file cache for directory 'C:/Users/direc/Desktop/OfficeEscape_Unreal/empty/OfficeEscape_Unreal/Project/Content/' took 0.11s
+[2019.06.02-22.06.05:638][  0]SourceControl: 소스 컨트롤이 꺼져 있습니다.
+[2019.06.02-22.06.05:638][  0]Cmd: MAP LOAD FILE="../../../../../../Users/direc/Desktop/OfficeEscape_Unreal/empty/OfficeEscape_Unreal/Project/Content/Maps/eojin_level.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.06.02-22.06.05:653][  0]LightingResults: New page: 라이팅 빌드
+[2019.06.02-22.06.05:664][  0]MapCheck: New page: 맵 체크
+[2019.06.02-22.06.05:664][  0]LightingResults: New page: 라이팅 빌드
+[2019.06.02-22.06.05:728][  0]LogUObjectHash: Compacting FUObjectHashTables data took   4.02ms
+[2019.06.02-22.06.08:123][  0]LogLinker: Warning: '/Game/OfficeBuildEnvironment/Material/M_Wood_Floor_Walnut_Polished3' 파일을 찾을 수 없습니다.
+[2019.06.02-22.06.08:125][  0]LogLinker: Warning: NULL 로드중 '/Game/OfficeBuildEnvironment/Material/M_Wood_Floor_Walnut_Polished3' 애셋에 대한 파일을 찾을 수 없습니다.
+[2019.06.02-22.06.08:125][  0]LogLinker: Warning: '/Game/OfficeBuildEnvironment/Material/M_Wood_Floor_Walnut_Polished3' 파일을 찾을 수 없습니다.
+[2019.06.02-22.06.08:126][  0]LogLinker: Warning: NULL 로드중 '/Game/OfficeBuildEnvironment/Material/M_Wood_Floor_Walnut_Polished3' 애셋에 대한 파일을 찾을 수 없습니다.
+[2019.06.02-22.06.08:130][  0]LogLinker: Warning: '/Game/OfficeBuildEnvironment/Material/M_Carpet' 파일을 찾을 수 없습니다.
+[2019.06.02-22.06.08:131][  0]LogLinker: Warning: NULL 로드중 '/Game/OfficeBuildEnvironment/Material/M_Carpet' 애셋에 대한 파일을 찾을 수 없습니다.
+[2019.06.02-22.06.08:132][  0]LogLinker: Warning: '/Game/OfficeBuildEnvironment/Material/M_Carpet' 파일을 찾을 수 없습니다.
+[2019.06.02-22.06.08:132][  0]LogLinker: Warning: NULL 로드중 '/Game/OfficeBuildEnvironment/Material/M_Carpet' 애셋에 대한 파일을 찾을 수 없습니다.
+[2019.06.02-22.06.08:140][  0]LogLinker: Warning: '/Game/OfficeBuildEnvironment/Material/M_Carpet' 파일을 찾을 수 없습니다.
+[2019.06.02-22.06.08:141][  0]LogLinker: Warning: NULL 로드중 '/Game/OfficeBuildEnvironment/Material/M_Carpet' 애셋에 대한 파일을 찾을 수 없습니다.
+[2019.06.02-22.06.08:141][  0]LogLinker: Warning: '/Game/OfficeBuildEnvironment/Material/M_Carpet' 파일을 찾을 수 없습니다.
+[2019.06.02-22.06.08:142][  0]LogLinker: Warning: NULL 로드중 '/Game/OfficeBuildEnvironment/Material/M_Carpet' 애셋에 대한 파일을 찾을 수 없습니다.
+[2019.06.02-22.06.08:145][  0]LogLinker: Warning: '/Game/OfficeBuildEnvironment/Material/M_Carpet' 파일을 찾을 수 없습니다.
+[2019.06.02-22.06.08:146][  0]LogLinker: Warning: NULL 로드중 '/Game/OfficeBuildEnvironment/Material/M_Carpet' 애셋에 대한 파일을 찾을 수 없습니다.
+[2019.06.02-22.06.08:147][  0]LogLinker: Warning: '/Game/OfficeBuildEnvironment/Material/M_Carpet' 파일을 찾을 수 없습니다.
+[2019.06.02-22.06.08:147][  0]LogLinker: Warning: NULL 로드중 '/Game/OfficeBuildEnvironment/Material/M_Carpet' 애셋에 대한 파일을 찾을 수 없습니다.
+[2019.06.02-22.06.10:750][  0]LogLinker: Warning: '/Game/OfficeBuildEnvironment/Material/M_Carpet' 파일을 찾을 수 없습니다.
+[2019.06.02-22.06.10:750][  0]LoadErrors: 로드에 실패했습니다. /Game/OfficeBuildEnvironment/Material/M_Carpet.M_Carpet 레퍼런싱한 것: SM_Floor_02_a
+[2019.06.02-22.06.10:750][  0]LogLinker: Warning: NULL 로드중 '/Game/OfficeBuildEnvironment/Material/M_Carpet' 애셋에 대한 파일을 찾을 수 없습니다.
+[2019.06.02-22.06.10:751][  0]LogLinker: Warning: '/Game/OfficeBuildEnvironment/Material/M_Carpet' 파일을 찾을 수 없습니다.
+[2019.06.02-22.06.10:751][  0]LoadErrors: 로드에 실패했습니다. /Game/OfficeBuildEnvironment/Material/M_Carpet.M_Carpet 레퍼런싱한 것: SM_Floor_02_a
+[2019.06.02-22.06.10:752][  0]LogLinker: Warning: NULL 로드중 '/Game/OfficeBuildEnvironment/Material/M_Carpet' 애셋에 대한 파일을 찾을 수 없습니다.
+[2019.06.02-22.06.10:753][  0]LogLinker: Warning: '/Game/OfficeBuildEnvironment/Material/M_Carpet' 파일을 찾을 수 없습니다.
+[2019.06.02-22.06.10:754][  0]LoadErrors: 로드에 실패했습니다. /Game/OfficeBuildEnvironment/Material/M_Carpet.M_Carpet 레퍼런싱한 것: SM_Floor_01_c
+[2019.06.02-22.06.10:754][  0]LogLinker: Warning: NULL 로드중 '/Game/OfficeBuildEnvironment/Material/M_Carpet' 애셋에 대한 파일을 찾을 수 없습니다.
+[2019.06.02-22.06.10:755][  0]LogLinker: Warning: '/Game/OfficeBuildEnvironment/Material/M_Carpet' 파일을 찾을 수 없습니다.
+[2019.06.02-22.06.10:755][  0]LoadErrors: 로드에 실패했습니다. /Game/OfficeBuildEnvironment/Material/M_Carpet.M_Carpet 레퍼런싱한 것: SM_Floor_01_c
+[2019.06.02-22.06.10:756][  0]LogLinker: Warning: NULL 로드중 '/Game/OfficeBuildEnvironment/Material/M_Carpet' 애셋에 대한 파일을 찾을 수 없습니다.
+[2019.06.02-22.06.10:756][  0]LogLinker: Warning: '/Game/OfficeBuildEnvironment/Material/M_Carpet' 파일을 찾을 수 없습니다.
+[2019.06.02-22.06.10:757][  0]LoadErrors: 로드에 실패했습니다. /Game/OfficeBuildEnvironment/Material/M_Carpet.M_Carpet 레퍼런싱한 것: SM_Floor_01_c
+[2019.06.02-22.06.10:757][  0]LogLinker: Warning: NULL 로드중 '/Game/OfficeBuildEnvironment/Material/M_Carpet' 애셋에 대한 파일을 찾을 수 없습니다.
+[2019.06.02-22.06.10:758][  0]LogLinker: Warning: '/Game/OfficeBuildEnvironment/Material/M_Carpet' 파일을 찾을 수 없습니다.
+[2019.06.02-22.06.10:758][  0]LoadErrors: 로드에 실패했습니다. /Game/OfficeBuildEnvironment/Material/M_Carpet.M_Carpet 레퍼런싱한 것: SM_Floor_01_c
+[2019.06.02-22.06.10:759][  0]LogLinker: Warning: NULL 로드중 '/Game/OfficeBuildEnvironment/Material/M_Carpet' 애셋에 대한 파일을 찾을 수 없습니다.
+[2019.06.02-22.06.10:761][  0]LogLinker: Warning: '/Game/OfficeBuildEnvironment/Material/M_Carpet' 파일을 찾을 수 없습니다.
+[2019.06.02-22.06.10:761][  0]LoadErrors: 로드에 실패했습니다. /Game/OfficeBuildEnvironment/Material/M_Carpet.M_Carpet 레퍼런싱한 것: SM_Floor_01_b
+[2019.06.02-22.06.10:761][  0]LogLinker: Warning: NULL 로드중 '/Game/OfficeBuildEnvironment/Material/M_Carpet' 애셋에 대한 파일을 찾을 수 없습니다.
+[2019.06.02-22.06.10:762][  0]LogLinker: Warning: '/Game/OfficeBuildEnvironment/Material/M_Carpet' 파일을 찾을 수 없습니다.
+[2019.06.02-22.06.10:762][  0]LoadErrors: 로드에 실패했습니다. /Game/OfficeBuildEnvironment/Material/M_Carpet.M_Carpet 레퍼런싱한 것: SM_Floor_01_b
+[2019.06.02-22.06.10:763][  0]LogLinker: Warning: NULL 로드중 '/Game/OfficeBuildEnvironment/Material/M_Carpet' 애셋에 대한 파일을 찾을 수 없습니다.
+[2019.06.02-22.06.10:764][  0]LogLinker: Warning: '/Game/OfficeBuildEnvironment/Material/M_Carpet' 파일을 찾을 수 없습니다.
+[2019.06.02-22.06.10:764][  0]LoadErrors: 로드에 실패했습니다. /Game/OfficeBuildEnvironment/Material/M_Carpet.M_Carpet 레퍼런싱한 것: SM_Floor_01_b
+[2019.06.02-22.06.10:765][  0]LogLinker: Warning: NULL 로드중 '/Game/OfficeBuildEnvironment/Material/M_Carpet' 애셋에 대한 파일을 찾을 수 없습니다.
+[2019.06.02-22.06.10:765][  0]LogLinker: Warning: '/Game/OfficeBuildEnvironment/Material/M_Carpet' 파일을 찾을 수 없습니다.
+[2019.06.02-22.06.10:766][  0]LoadErrors: 로드에 실패했습니다. /Game/OfficeBuildEnvironment/Material/M_Carpet.M_Carpet 레퍼런싱한 것: SM_Floor_01_b
+[2019.06.02-22.06.10:766][  0]LogLinker: Warning: NULL 로드중 '/Game/OfficeBuildEnvironment/Material/M_Carpet' 애셋에 대한 파일을 찾을 수 없습니다.
+[2019.06.02-22.06.10:768][  0]LogLinker: Warning: '/Game/OfficeBuildEnvironment/Material/M_Wood_Floor_Walnut_Polished3' 파일을 찾을 수 없습니다.
+[2019.06.02-22.06.10:768][  0]LoadErrors: 로드에 실패했습니다. /Game/OfficeBuildEnvironment/Material/M_Wood_Floor_Walnut_Polished3.M_Wood_Floor_Walnut_Polished3 레퍼런싱한 것: SM_Floor_01_a
+[2019.06.02-22.06.10:769][  0]LogLinker: Warning: NULL 로드중 '/Game/OfficeBuildEnvironment/Material/M_Wood_Floor_Walnut_Polished3' 애셋에 대한 파일을 찾을 수 없습니다.
+[2019.06.02-22.06.10:769][  0]LogLinker: Warning: '/Game/OfficeBuildEnvironment/Material/M_Wood_Floor_Walnut_Polished3' 파일을 찾을 수 없습니다.
+[2019.06.02-22.06.10:770][  0]LoadErrors: 로드에 실패했습니다. /Game/OfficeBuildEnvironment/Material/M_Wood_Floor_Walnut_Polished3.M_Wood_Floor_Walnut_Polished3 레퍼런싱한 것: SM_Floor_01_a
+[2019.06.02-22.06.10:770][  0]LogLinker: Warning: NULL 로드중 '/Game/OfficeBuildEnvironment/Material/M_Wood_Floor_Walnut_Polished3' 애셋에 대한 파일을 찾을 수 없습니다.
+[2019.06.02-22.06.10:771][  0]LogLinker: Warning: '/Game/OfficeBuildEnvironment/Material/M_Wood_Floor_Walnut_Polished3' 파일을 찾을 수 없습니다.
+[2019.06.02-22.06.10:771][  0]LoadErrors: 로드에 실패했습니다. /Game/OfficeBuildEnvironment/Material/M_Wood_Floor_Walnut_Polished3.M_Wood_Floor_Walnut_Polished3 레퍼런싱한 것: SM_Floor_01_a
+[2019.06.02-22.06.10:772][  0]LogLinker: Warning: NULL 로드중 '/Game/OfficeBuildEnvironment/Material/M_Wood_Floor_Walnut_Polished3' 애셋에 대한 파일을 찾을 수 없습니다.
+[2019.06.02-22.06.10:773][  0]LogLinker: Warning: '/Game/OfficeBuildEnvironment/Material/M_Wood_Floor_Walnut_Polished3' 파일을 찾을 수 없습니다.
+[2019.06.02-22.06.10:773][  0]LoadErrors: 로드에 실패했습니다. /Game/OfficeBuildEnvironment/Material/M_Wood_Floor_Walnut_Polished3.M_Wood_Floor_Walnut_Polished3 레퍼런싱한 것: SM_Floor_01_a
+[2019.06.02-22.06.10:774][  0]LogLinker: Warning: NULL 로드중 '/Game/OfficeBuildEnvironment/Material/M_Wood_Floor_Walnut_Polished3' 애셋에 대한 파일을 찾을 수 없습니다.
+[2019.06.02-22.06.14:940][  0]LogAIModule: Creating AISystem for world eojin_level
+[2019.06.02-22.06.16:439][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.06.02-22.06.16:721][  0]LogUObjectHash: Compacting FUObjectHashTables data took   5.10ms
+[2019.06.02-22.06.16:721][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.06.02-22.06.16:722][  0]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 0.797ms.
+[2019.06.02-22.06.16:722][  0]LogFileHelpers: Loading map 'eojin_level' took 11.084
+[2019.06.02-22.06.16:912][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.02-22.06.16:936][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.02-22.06.16:952][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.02-22.06.16:971][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.02-22.06.17:007][  0]LogCollectionManager: Loaded 0 collections in 0.008964 seconds
+[2019.06.02-22.06.17:052][  0]LogFileCache: Scanning file cache for directory 'C:/Users/direc/Desktop/OfficeEscape_Unreal/empty/OfficeEscape_Unreal/Project/Saved/Collections/' took 0.01s
+[2019.06.02-22.06.17:052][  0]LogFileCache: Scanning file cache for directory 'C:/Users/direc/Desktop/OfficeEscape_Unreal/empty/OfficeEscape_Unreal/Project/Content/Developers/direc/Collections/' took 0.00s
+[2019.06.02-22.06.17:052][  0]LogFileCache: Scanning file cache for directory 'C:/Users/direc/Desktop/OfficeEscape_Unreal/empty/OfficeEscape_Unreal/Project/Content/Collections/' took 0.00s
+[2019.06.02-22.06.17:052][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.06.02-22.06.17:079][  0]LogContentBrowser: Native class hierarchy populated in 0.0262 seconds. Added 2732 classes and 659 folders.
+[2019.06.02-22.06.17:114][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.06.02-22.06.17:126][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.02-22.06.17:130][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.02-22.06.17:132][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.02-22.06.17:137][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.02-22.06.17:140][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.02-22.06.17:142][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.02-22.06.17:144][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.02-22.06.17:147][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.02-22.06.17:150][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.02-22.06.17:153][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.02-22.06.17:156][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.02-22.06.17:159][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.02-22.06.17:162][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.02-22.06.17:165][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.02-22.06.17:168][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.02-22.06.17:171][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.02-22.06.17:174][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.02-22.06.17:176][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.02-22.06.17:180][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.02-22.06.17:184][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.02-22.06.17:187][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.02-22.06.17:190][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.02-22.06.17:193][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.02-22.06.17:195][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.02-22.06.17:198][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.02-22.06.17:199][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.02-22.06.17:479][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2019.06.02-22.06.17:555][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0006 seconds. Added 1 classes and 2 folders.
+[2019.06.02-22.06.18:046][  0]LogSlate: Took 0.000660 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.06.02-22.06.18:053][  0]LogSlate: Took 0.005142 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2019.06.02-22.06.18:061][  0]LogSlate: Took 0.005181 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothicBold.ttf' (4188K)
+[2019.06.02-22.06.18:062][  0]LogSlate: Took 0.000866 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.06.02-22.06.18:074][  0]LogSlate: Took 0.001530 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.06.02-22.06.18:297][  0]LogRenderer: Reallocating scene render targets to support 1208x652 Format 10 NumSamples 1 (Frame:1).
+[2019.06.02-22.06.18:420][  0]LogSlate: Warning: Legacy localized fallback font '../../../Engine/Content/Slate/Fonts/../../Editor/Slate/Fonts/NanumGothic.ttf' was requested. Font: '/Engine/EngineFonts/Faces/RobotoRegular.RobotoRegular', Character: '라 (U+b77c)'
+Legacy localized fallback fonts were deprecated in 4.22 and will be removed in a future version!
+Please update your composite fonts to use localized sub-font families: https://docs.unrealengine.com/en-US/Engine/UMG/UserGuide/Fonts/Overview
+[2019.06.02-22.06.18:427][  0]LogSlate: Took 0.007229 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/../../Editor/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2019.06.02-22.06.18:852][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2019.06.02-22.06.18:852][  0]LogLoad: (Engine Initialization) Total time: 37.97 seconds
+[2019.06.02-22.06.18:852][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.06.02-22.06.18:872][  0]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (Microsoft 입력기).
+[2019.06.02-22.06.18:938][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.06.02-22.06.18:968][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.02-22.06.19:057][  0]LogSlate: Took 0.001650 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.06.02-22.06.19:163][  1]LogAssetRegistry: Asset discovery search completed in 26.7213 seconds
+[2019.06.02-22.06.19:170][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2019.06.02-22.06.19:170][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000100 seconds (updated 0 objects)
+[2019.06.02-22.06.21:046][  3]LogConsoleManager: Warning: Performance warning: Console object named 'r.ReflectionCaptureResolution' shows many (500) FindConsoleObject() calls (consider caching e.g. using static)
+[2019.06.02-22.06.26:663][  4]LogSlate: Took 0.000840 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.06.02-22.06.50:351][447]LogSlate: Window '메시지 로그' being destroyed
+[2019.06.02-22.06.50:357][447]LogSlate: Window '메시지 로그' being destroyed
+[2019.06.02-22.07.10:729][ 89]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_int_01_b)
+[2019.06.02-22.07.11:700][144]LogEditorViewport: Clicking on Actor (LMB): Door_01_C (Door_5)
+[2019.06.02-22.07.18:063][669]LogEditorViewport: Clicking on Actor (LMB): Door_01_C (Door_5)
+[2019.06.02-22.07.18:156][672]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (DoorGlass_01)
+[2019.06.02-22.07.23:443][974]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.02-22.07.29:805][633]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (DoorGlass_01)
+[2019.06.02-22.07.29:929][641]LogEditorViewport: Clicking on Actor (double click): Door_01_C (Door_5)
+[2019.06.02-22.07.30:224][669]LogEditorViewport: Clicking on Actor (LMB): Door_01_C (Door_5)
+[2019.06.02-22.07.31:306][763]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.02-22.07.31:416][775]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/OfficeBuildEnvironment/Blueprints/Modules/Door_01.Door_01
+[2019.06.02-22.07.31:856][775]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 121 classes and 0 folders.
+[2019.06.02-22.07.32:997][775]LogSlate: Took 0.001429 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.06.02-22.07.33:101][776]LogSlate: Took 0.001374 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.06.02-22.07.34:773][871]LogRenderer: Reallocating scene render targets to support 1208x808 Format 10 NumSamples 1 (Frame:1).
+[2019.06.02-22.07.38:698][ 92]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.02-22.07.42:023][392]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.02-22.07.47:074][684]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.02-22.08.02:707][670]LogEditorTransaction: Undo 컴포넌트 제거
+[2019.06.02-22.08.58:181][744]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.02-22.09.07:773][307]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.02-22.09.16:396][827]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.02-22.09.45:091][588]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.02-22.10.31:891][102]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.02-22.10.33:913][252]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.02-22.10.49:128][127]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.02-22.10.55:772][439]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.02-22.11.05:606][925]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.02-22.11.12:619][302]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.02-22.11.32:086][196]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.02-22.11.46:088][863]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.02-22.11.57:988][399]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.02-22.12.03:072][688]BlueprintLog: New page: Door_01 컴파일
+[2019.06.02-22.12.03:789][688]LogUObjectHash: Compacting FUObjectHashTables data took   7.36ms
+[2019.06.02-22.12.11:723][216]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.02-22.12.11:817][226]LogTemp: Repeating last play command: 선택된 뷰포트
+[2019.06.02-22.12.11:840][226]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/eojin_level.eojin_level:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/eojin_level.eojin_level:PersistentLevel.eojin_level' with GeneratedClass '/Game/Maps/eojin_level.eojin_level_C' with ClassGeneratedBy '/Game/Maps/eojin_level.eojin_level:PersistentLevel.eojin_level'
+[2019.06.02-22.12.11:840][226]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.02-22.12.11:845][226]PIE: New page: PIE 세션: eojin_level (2019. 6. 3. 오후 4:12:11)
+[2019.06.02-22.12.11:860][226]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_eojin_level
+[2019.06.02-22.12.12:157][226]LogPlayLevel: PIE: StaticDuplicateObject took: (0.295634s)
+[2019.06.02-22.12.12:158][226]LogAIModule: Creating AISystem for world eojin_level
+[2019.06.02-22.12.12:158][226]LogPlayLevel: PIE: World Init took: (0.001258s)
+[2019.06.02-22.12.12:160][226]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/eojin_level.eojin_level to /Game/Maps/UEDPIE_0_eojin_level.eojin_level (0.299370s)
+[2019.06.02-22.12.12:224][226]LogUObjectHash: Compacting FUObjectHashTables data took   7.57ms
+[2019.06.02-22.12.12:348][226]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.02-22.12.12:436][226]LogInit: FAudioDevice initialized.
+[2019.06.02-22.12.12:484][226]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2019.06.02-22.12.12:633][226]LogWorld: Bringing World /Game/Maps/UEDPIE_0_eojin_level.eojin_level up for play (max tick rate 0) at 2019.06.03-07.12.12
+[2019.06.02-22.12.12:664][226]LogWorld: Bringing up level for play took: 0.176680
+[2019.06.02-22.12.12:697][226]LogBlueprintActionDatabase: Requesting refresh due to module change: Voice (loaded)
+[2019.06.02-22.12.12:707][226]LogBlueprintActionDatabase: Requesting refresh due to module change: MovieSceneCapture (loaded)
+[2019.06.02-22.12.12:708][226]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 20 classes and 0 folders.
+[2019.06.02-22.12.12:721][226]PIE: /Game/Maps/UEDPIE_0_eojin_level 에 대한 에디터에서 플레이 시작 시간: 1.626
+[2019.06.02-22.12.12:722][226]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/eojin_level.eojin_level:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/eojin_level.eojin_level:PersistentLevel.eojin_level' with GeneratedClass '/Game/Maps/eojin_level.eojin_level_C' with ClassGeneratedBy '/Game/Maps/eojin_level.eojin_level:PersistentLevel.eojin_level'
+[2019.06.02-22.12.18:052][663]LogBlueprintUserMessages: [Door_5] Hello
+[2019.06.02-22.12.18:306][690]LogBlueprintUserMessages: [Door_5] Hello
+[2019.06.02-22.12.19:412][791]LogBlueprintUserMessages: [Door_31] Hello
+[2019.06.02-22.12.21:683][973]LogBlueprintUserMessages: [Door_5] Hello
+[2019.06.02-22.12.27:281][525]LogBlueprintUserMessages: [Door_5] Hello
+[2019.06.02-22.12.28:189][612]LogBlueprintUserMessages: [Door_31] Hello
+[2019.06.02-22.12.28:233][617]LogBlueprintUserMessages: [Door_31] Hello
+[2019.06.02-22.12.28:652][651]LogBlueprintUserMessages: [Door_5] Hello
+[2019.06.02-22.12.28:752][658]LogBlueprintUserMessages: [Door_5] Hello
+[2019.06.02-22.12.30:285][811]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/eojin_level.eojin_level:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/eojin_level.eojin_level:PersistentLevel.eojin_level' with GeneratedClass '/Game/Maps/eojin_level.eojin_level_C' with ClassGeneratedBy '/Game/Maps/eojin_level.eojin_level:PersistentLevel.eojin_level'
+[2019.06.02-22.12.30:286][811]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.02-22.12.30:359][811]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.02-22.12.30:361][811]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/eojin_level.eojin_level:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/eojin_level.eojin_level:PersistentLevel.eojin_level' with GeneratedClass '/Game/Maps/eojin_level.eojin_level_C' with ClassGeneratedBy '/Game/Maps/eojin_level.eojin_level:PersistentLevel.eojin_level'
+[2019.06.02-22.12.30:485][811]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.02-22.12.30:562][811]LogUObjectHash: Compacting FUObjectHashTables data took  12.99ms
+[2019.06.02-22.12.30:604][812]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2019.06.02-22.12.35:801][288]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.02-22.13.05:612][402]LogSavePackage: Moving '../../../../../../Users/direc/Desktop/OfficeEscape_Unreal/empty/OfficeEscape_Unreal/Project/Saved/Door_01BD35781B49962BEF04A3A9ACDABEB568.tmp' to '../../../../../../Users/direc/Desktop/OfficeEscape_Unreal/empty/OfficeEscape_Unreal/Project/Content/OfficeBuildEnvironment/Blueprints/Modules/Door_01.uasset'
+[2019.06.02-22.13.06:144][438]BlueprintLog: New page: Door_01 컴파일
+[2019.06.02-22.13.06:691][438]LogUObjectHash: Compacting FUObjectHashTables data took  10.10ms
+[2019.06.02-22.13.11:746][711]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.02-22.13.11:872][718]LogSlate: Window 'Door_01' being destroyed
+[2019.06.02-22.13.11:883][718]LogSlate: Window 'Door_01' being destroyed
+[2019.06.02-22.13.15:593][ 32]LogEditorViewport: Clicking on Actor (LMB): Door_01_C (Door_5)
+[2019.06.02-22.13.17:299][169]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.02-22.13.17:449][182]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/OfficeBuildEnvironment/Blueprints/Modules/Door_01.Door_01
+[2019.06.02-22.13.21:847][409]BlueprintLog: New page: Door_01 컴파일
+[2019.06.02-22.13.22:297][409]LogUObjectHash: Compacting FUObjectHashTables data took   7.60ms
+[2019.06.02-22.13.26:196][712]LogTemp: Repeating last play command: 선택된 뷰포트
+[2019.06.02-22.13.26:223][712]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/eojin_level.eojin_level:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/eojin_level.eojin_level:PersistentLevel.eojin_level' with GeneratedClass '/Game/Maps/eojin_level.eojin_level_C' with ClassGeneratedBy '/Game/Maps/eojin_level.eojin_level:PersistentLevel.eojin_level'
+[2019.06.02-22.13.26:223][712]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.02-22.13.26:223][712]PIE: New page: PIE 세션: eojin_level (2019. 6. 3. 오후 4:13:26)
+[2019.06.02-22.13.26:223][712]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_eojin_level
+[2019.06.02-22.13.26:536][712]LogPlayLevel: PIE: StaticDuplicateObject took: (0.313789s)
+[2019.06.02-22.13.26:537][712]LogAIModule: Creating AISystem for world eojin_level
+[2019.06.02-22.13.26:537][712]LogPlayLevel: PIE: World Init took: (0.000797s)
+[2019.06.02-22.13.26:538][712]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/eojin_level.eojin_level to /Game/Maps/UEDPIE_0_eojin_level.eojin_level (0.315461s)
+[2019.06.02-22.13.26:636][712]LogUObjectHash: Compacting FUObjectHashTables data took   6.61ms
+[2019.06.02-22.13.26:732][712]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.02-22.13.26:806][712]LogInit: FAudioDevice initialized.
+[2019.06.02-22.13.26:836][712]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2019.06.02-22.13.26:984][712]LogWorld: Bringing World /Game/Maps/UEDPIE_0_eojin_level.eojin_level up for play (max tick rate 0) at 2019.06.03-07.13.26
+[2019.06.02-22.13.27:013][712]LogWorld: Bringing up level for play took: 0.175360
+[2019.06.02-22.13.27:035][712]PIE: /Game/Maps/UEDPIE_0_eojin_level 에 대한 에디터에서 플레이 시작 시간: -0.059
+[2019.06.02-22.13.27:037][712]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/eojin_level.eojin_level:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/eojin_level.eojin_level:PersistentLevel.eojin_level' with GeneratedClass '/Game/Maps/eojin_level.eojin_level_C' with ClassGeneratedBy '/Game/Maps/eojin_level.eojin_level:PersistentLevel.eojin_level'
+[2019.06.02-22.13.32:557][170]LogAnimMontage: Warning: Playing a Montage (FirstPersonFire_Montage) for the wrong Skeleton (UE4_Mannequin_Skeleton) instead of (SK_Mannequin_Arms_Skeleton).
+[2019.06.02-22.13.34:245][323]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/eojin_level.eojin_level:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/eojin_level.eojin_level:PersistentLevel.eojin_level' with GeneratedClass '/Game/Maps/eojin_level.eojin_level_C' with ClassGeneratedBy '/Game/Maps/eojin_level.eojin_level:PersistentLevel.eojin_level'
+[2019.06.02-22.13.34:245][323]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.02-22.13.34:355][323]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.02-22.13.34:356][323]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/eojin_level.eojin_level:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/eojin_level.eojin_level:PersistentLevel.eojin_level' with GeneratedClass '/Game/Maps/eojin_level.eojin_level_C' with ClassGeneratedBy '/Game/Maps/eojin_level.eojin_level:PersistentLevel.eojin_level'
+[2019.06.02-22.13.34:452][323]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.02-22.13.34:472][323]LogUObjectHash: Compacting FUObjectHashTables data took   5.02ms
+[2019.06.02-22.13.34:511][324]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2019.06.02-22.13.39:746][641]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.02-22.13.43:546][911]LogEditorViewport: Clicking on Actor (LMB): Door_01_C (Door_5)
+[2019.06.02-22.13.45:716][ 46]LogConsoleManager: Warning: Console object named 'ActorComponents.Enable' already exists but is being registered again, but we weren't expected it to be! (FConsoleManager::AddConsoleObject)
+[2019.06.02-22.13.45:768][ 46]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.02-22.13.51:791][209]LogBlueprintActionDatabase: Requesting refresh due to module change: Matinee (loaded)
+[2019.06.02-22.13.51:791][209]LogContentBrowser: Native class hierarchy updated for 'Matinee' in 0.0006 seconds. Added 15 classes and 2 folders.
+[2019.06.02-22.13.51:803][209]LogInit: Transaction tracking system initialized
+[2019.06.02-22.13.51:803][209]EditorErrors: New page: 마티네 초기화
+[2019.06.02-22.13.51:854][209]LogBlueprintActionDatabase: Requesting refresh due to module change: DistCurveEditor (loaded)
+[2019.06.02-22.13.51:864][209]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.02-22.14.30:704][311]LogEditorViewport: Clicking on Actor (LMB): Door_01_C (Door_5)
+[2019.06.02-22.14.33:797][368]LogEditorViewport: Clicking on Actor (LMB): Door_01_C (Door_5)
+[2019.06.02-22.14.36:946][525]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.02-22.14.53:378][849]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.02-22.14.54:419][908]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.02-22.14.55:367][960]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.02-22.14.57:376][ 79]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.02-22.14.59:376][189]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.02-22.15.00:699][249]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.02-22.15.16:563][602]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.02-22.15.20:276][788]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.02-22.15.58:182][335]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.02-22.16.16:238][368]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.02-22.16.27:852][619]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.02-22.16.46:405][925]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.02-22.17.49:138][881]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.02-22.18.07:828][834]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.02-22.18.22:178][320]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.02-22.18.22:392][320]LogEditorViewport: Clicking on Actor (LMB): Door_01_C (Door_5)
+[2019.06.02-22.18.39:082][447]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.02-22.18.47:908][962]Cmd: TRANSACTION UNDO
+[2019.06.02-22.18.47:908][962]LogEditorTransaction: Undo 키프레임 업데이트
+[2019.06.02-22.18.49:309][ 54]Cmd: TRANSACTION UNDO
+[2019.06.02-22.18.49:309][ 54]LogEditorTransaction: Undo 키프레임 업데이트
+[2019.06.02-22.18.50:462][127]Cmd: TRANSACTION UNDO
+[2019.06.02-22.18.50:462][127]LogEditorTransaction: Undo 키프레임 업데이트
+[2019.06.02-22.19.04:633][933]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.02-22.19.19:215][782]Cmd: TRANSACTION UNDO
+[2019.06.02-22.19.19:215][782]LogEditorTransaction: Undo 키프레임 업데이트
+[2019.06.02-22.19.38:910][861]Cmd: TRANSACTION UNDO
+[2019.06.02-22.19.38:910][861]LogEditorTransaction: Undo 키프레임 업데이트
+[2019.06.02-22.19.54:429][874]Cmd: TRANSACTION UNDO
+[2019.06.02-22.19.54:429][874]LogEditorTransaction: Undo 키프레임 업데이트
+[2019.06.02-22.20.04:992][657]LogEditorViewport: Clicking on Actor (LMB): Door_01_C (Door_15)
+[2019.06.02-22.20.05:850][723]LogEditorViewport: Clicking on Actor (LMB): Door_01_C (Door_15)
+[2019.06.02-22.20.10:495][ 74]Cmd: TRANSACTION UNDO
+[2019.06.02-22.20.10:495][ 74]LogEditorTransaction: Undo 키프레임 업데이트
+[2019.06.02-22.20.11:465][148]Cmd: TRANSACTION UNDO
+[2019.06.02-22.20.11:465][148]LogEditorTransaction: Undo 키프레임 업데이트
+[2019.06.02-22.20.14:400][360]Cmd: TRANSACTION UNDO
+[2019.06.02-22.20.14:400][360]LogEditorTransaction: Undo 키프레임 업데이트
+[2019.06.02-22.20.14:644][380]Cmd: TRANSACTION UNDO
+[2019.06.02-22.20.14:644][380]LogEditorTransaction: Undo 키프레임 업데이트
+[2019.06.02-22.20.16:639][514]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.02-22.20.18:614][632]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_01_a)
+[2019.06.02-22.20.21:327][815]LogEditorViewport: Clicking on Actor (LMB): Door_01_C (Door_5)
+[2019.06.02-22.20.26:787][266]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.02-22.20.26:870][266]LogExit: Transaction tracking system shut down
+[2019.06.02-22.20.26:907][266]LogUObjectHash: Compacting FUObjectHashTables data took   9.51ms
+[2019.06.02-22.20.32:095][266]LogSavePackage: Moving '../../../../../../Users/direc/Desktop/OfficeEscape_Unreal/empty/OfficeEscape_Unreal/Project/Saved/eojin_level_Auto19E3573FC4CB991A62048388C94684A86.tmp' to '../../../../../../Users/direc/Desktop/OfficeEscape_Unreal/empty/OfficeEscape_Unreal/Project/Saved/Autosaves/Game/Maps/eojin_level_Auto1.umap'
+[2019.06.02-22.20.32:105][266]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/eojin_level' took 5.299
+[2019.06.02-22.20.32:105][266]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 5.299
+[2019.06.02-22.20.32:108][266]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/OfficeBuildEnvironment/Blueprints/Modules/Door_01] ([1] browsable assets)...
+[2019.06.02-22.20.32:128][266]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/OfficeBuildEnvironment/Blueprints/Modules/Door_01.Door_01]
+[2019.06.02-22.20.32:128][266]OBJ SavePackage: Finished generating thumbnails for package [/Game/OfficeBuildEnvironment/Blueprints/Modules/Door_01]
+[2019.06.02-22.20.32:164][266]LogSavePackage: Moving '../../../../../../Users/direc/Desktop/OfficeEscape_Unreal/empty/OfficeEscape_Unreal/Project/Saved/Door_01_Auto121106A56445005EF046B9CAD13268443.tmp' to '../../../../../../Users/direc/Desktop/OfficeEscape_Unreal/empty/OfficeEscape_Unreal/Project/Saved/Autosaves/Game/OfficeBuildEnvironment/Blueprints/Modules/Door_01_Auto1.uasset'
+[2019.06.02-22.20.32:167][266]LogFileHelpers: Auto-saving content packages took 0.059
+[2019.06.02-22.20.35:610][496]Cmd: TRANSACTION UNDO
+[2019.06.02-22.20.35:610][496]LogEditorTransaction: Undo 액터 이동
+[2019.06.02-22.20.37:306][605]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.02-22.20.54:753][649]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.02-22.21.08:458][378]LogEditorTransaction: Undo 컴포넌트 변경
+[2019.06.02-22.21.09:152][417]LogEditorTransaction: Undo 액터 클릭
+[2019.06.02-22.21.09:605][449]LogEditorTransaction: Undo 액터 클릭
+[2019.06.02-22.21.17:354][  8]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.02-22.21.22:563][376]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.02-22.21.24:865][527]LogSlate: Window '실행 취소 히스토리' being destroyed
+[2019.06.02-22.21.24:883][527]LogSlate: Window '실행 취소 히스토리' being destroyed
+[2019.06.02-22.21.27:669][748]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.02-22.21.46:247][ 63]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.02-22.21.48:138][154]LogSlate: Window '튜토리얼' being destroyed
+[2019.06.02-22.21.48:158][154]LogSlate: Window '튜토리얼' being destroyed
+[2019.06.02-22.21.50:621][272]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.02-22.21.51:893][356]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.02-22.22.02:762][ 26]LogEditorTransaction: Redo 액터 클릭
+[2019.06.02-22.22.04:614][134]LogSlate: Window '실행 취소 히스토리' being destroyed
+[2019.06.02-22.22.04:638][134]LogSlate: Window '실행 취소 히스토리' being destroyed
+[2019.06.02-22.22.06:924][268]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.02-22.22.07:867][327]LogTemp: Repeating last play command: 선택된 뷰포트
+[2019.06.02-22.22.07:885][327]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/eojin_level.eojin_level:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/eojin_level.eojin_level:PersistentLevel.eojin_level' with GeneratedClass '/Game/Maps/eojin_level.eojin_level_C' with ClassGeneratedBy '/Game/Maps/eojin_level.eojin_level:PersistentLevel.eojin_level'
+[2019.06.02-22.22.07:886][327]BlueprintLog: New page: 플레이 전 자동 컴파일
+[2019.06.02-22.22.07:886][327]LogPlayLevel: [PlayLevel] Compiling Door_01 before play...
+[2019.06.02-22.22.08:360][327]LogUObjectHash: Compacting FUObjectHashTables data took   5.93ms
+[2019.06.02-22.22.08:360][327]LogPlayLevel: PlayLevel: Blueprint regeneration took 474 ms (1 blueprints)
+[2019.06.02-22.22.08:360][327]PIE: New page: PIE 세션: eojin_level (2019. 6. 3. 오후 4:22:08)
+[2019.06.02-22.22.08:361][327]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_eojin_level
+[2019.06.02-22.22.08:566][327]LogPlayLevel: PIE: StaticDuplicateObject took: (0.204675s)
+[2019.06.02-22.22.08:567][327]LogAIModule: Creating AISystem for world eojin_level
+[2019.06.02-22.22.08:567][327]LogPlayLevel: PIE: World Init took: (0.000763s)
+[2019.06.02-22.22.08:567][327]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/eojin_level.eojin_level to /Game/Maps/UEDPIE_0_eojin_level.eojin_level (0.206079s)
+[2019.06.02-22.22.08:620][327]LogUObjectHash: Compacting FUObjectHashTables data took   3.78ms
+[2019.06.02-22.22.08:708][327]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.02-22.22.08:780][327]LogInit: FAudioDevice initialized.
+[2019.06.02-22.22.08:780][327]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.02-22.22.08:808][327]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2019.06.02-22.22.08:942][327]LogWorld: Bringing World /Game/Maps/UEDPIE_0_eojin_level.eojin_level up for play (max tick rate 0) at 2019.06.03-07.22.08
+[2019.06.02-22.22.08:970][327]LogWorld: Bringing up level for play took: 0.160409
+[2019.06.02-22.22.08:990][327]PIE: /Game/Maps/UEDPIE_0_eojin_level 에 대한 에디터에서 플레이 시작 시간: 1.895
+[2019.06.02-22.22.08:990][327]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/eojin_level.eojin_level:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/eojin_level.eojin_level:PersistentLevel.eojin_level' with GeneratedClass '/Game/Maps/eojin_level.eojin_level_C' with ClassGeneratedBy '/Game/Maps/eojin_level.eojin_level:PersistentLevel.eojin_level'
+[2019.06.02-22.22.12:220][531]LogAnimMontage: Warning: Playing a Montage (FirstPersonFire_Montage) for the wrong Skeleton (UE4_Mannequin_Skeleton) instead of (SK_Mannequin_Arms_Skeleton).
+[2019.06.02-22.22.16:626][858]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/eojin_level.eojin_level:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/eojin_level.eojin_level:PersistentLevel.eojin_level' with GeneratedClass '/Game/Maps/eojin_level.eojin_level_C' with ClassGeneratedBy '/Game/Maps/eojin_level.eojin_level:PersistentLevel.eojin_level'
+[2019.06.02-22.22.16:627][858]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.02-22.22.16:685][858]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.02-22.22.16:686][858]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/eojin_level.eojin_level:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/eojin_level.eojin_level:PersistentLevel.eojin_level' with GeneratedClass '/Game/Maps/eojin_level.eojin_level_C' with ClassGeneratedBy '/Game/Maps/eojin_level.eojin_level:PersistentLevel.eojin_level'
+[2019.06.02-22.22.16:761][858]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.02-22.22.16:793][858]LogUObjectHash: Compacting FUObjectHashTables data took   3.56ms
+[2019.06.02-22.22.16:829][859]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2019.06.02-22.22.24:504][106]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.02-22.22.29:772][463]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.02-22.22.38:248][ 30]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.02-22.23.15:353][488]LogEditorTransaction: Undo 컴포넌트 변경
+[2019.06.02-22.23.18:856][717]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.02-22.23.21:331][992]LogEditorViewport: Clicking on Actor (LMB): Door_01_C (Door_5)
+[2019.06.02-22.23.28:175][650]Cmd: TRANSACTION UNDO
+[2019.06.02-22.23.28:175][650]LogEditorTransaction: Undo 액터 회전
+[2019.06.02-22.23.29:500][771]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Room_technicals)
+[2019.06.02-22.23.29:575][771]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.02-22.23.30:546][851]LogEditorViewport: Clicking on Actor (LMB): Door_01_C (Door_15)
+[2019.06.02-22.23.31:769][968]LogEditorViewport: Clicking on Actor (LMB): Door_01_C (Door_15)
+[2019.06.02-22.23.35:045][276]LogEditorViewport: Clicking on Actor (LMB): Door_01_C (Door_5)
+[2019.06.02-22.23.52:601][ 64]Cmd: TRANSACTION UNDO
+[2019.06.02-22.23.52:601][ 64]LogEditorTransaction: Undo 액터 회전
+[2019.06.02-22.23.53:935][173]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.02-22.24.03:542][722]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.02-22.24.05:951][966]LogEditorViewport: Clicking on Actor (LMB): Door_01_C (Door_5)
+[2019.06.02-22.24.06:628][ 39]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_int_01_b)
+[2019.06.02-22.24.07:446][121]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_01_a)
+[2019.06.02-22.24.08:296][202]LogEditorViewport: Clicking on Actor (LMB): Door_01_C (Door_5)
+[2019.06.02-22.24.12:340][637]Cmd: TRANSACTION UNDO
+[2019.06.02-22.24.12:340][637]LogEditorTransaction: Undo 액터 회전
+[2019.06.02-22.24.15:633][947]Cmd: TRANSACTION UNDO
+[2019.06.02-22.24.15:633][947]LogEditorTransaction: Undo 액터 회전
+[2019.06.02-22.24.28:835][292]Cmd: TRANSACTION UNDO
+[2019.06.02-22.24.28:835][292]LogEditorTransaction: Undo 액터 이동
+[2019.06.02-22.24.34:686][857]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.02-22.24.39:006][317]Cmd: TRANSACTION UNDO
+[2019.06.02-22.24.39:006][317]LogEditorTransaction: Undo 액터 회전
+[2019.06.02-22.24.41:671][582]LogEditorViewport: Clicking on Actor (LMB): Door_01_C (Door_5)
+[2019.06.02-22.24.43:641][792]LogEditorViewport: Clicking on Actor (LMB): Door_01_C (Door_5)
+[2019.06.02-22.25.14:298][732]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.02-22.25.21:518][438]Cmd: TRANSACTION UNDO
+[2019.06.02-22.25.21:518][438]LogEditorTransaction: Undo 액터 회전
+[2019.06.02-22.25.22:615][520]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.02-22.25.25:547][803]Cmd: TRANSACTION UNDO
+[2019.06.02-22.25.25:547][803]LogEditorTransaction: Undo 액터 회전
+[2019.06.02-22.25.27:507][988]LogEditorViewport: Clicking on Actor (LMB): Door_01_C (Door_5)
+[2019.06.02-22.25.29:145][150]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.02-22.25.34:563][647]LogEditorViewport: Clicking on Actor (LMB): Door_01_C (Door_15)
+[2019.06.02-22.25.40:206][172]Cmd: TRANSACTION UNDO
+[2019.06.02-22.25.40:206][172]LogEditorTransaction: Undo 액터 회전
+[2019.06.02-22.25.46:664][764]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.02-22.25.54:191][493]Cmd: TRANSACTION UNDO
+[2019.06.02-22.25.54:191][493]LogEditorTransaction: Undo 액터 회전
+[2019.06.02-22.27.20:002][767]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.02-22.27.21:372][890]LogEditorViewport: Clicking on Actor (LMB): Door_01_C (Door_15)
+[2019.06.02-22.27.21:475][898]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (DoorGlass_01)
+[2019.06.02-22.27.22:563][991]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (DoorGlass_01)
+[2019.06.02-22.27.32:608][909]LogEditorViewport: Clicking on Actor (LMB): Door_01_C (Door_5)
+[2019.06.02-22.27.33:440][982]Cmd: DELETE
+[2019.06.02-22.27.33:440][982]Cmd: ACTOR DELETE
+[2019.06.02-22.27.33:498][982]LogEditorActor: Actor Door_5 is referenced by MatineeActor.
+[2019.06.02-22.27.33:504][982]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.02-22.27.35:273][982]LogSlate: Window '메시지' being destroyed
+[2019.06.02-22.27.35:287][982]LogEditorActor: Deleted Actor: Door_01_C
+[2019.06.02-22.27.35:351][982]LogUObjectHash: Compacting FUObjectHashTables data took   3.73ms
+[2019.06.02-22.27.35:352][982]LogEditorActor: Deleted 1 Actors (1.902 secs)
+[2019.06.02-22.27.38:771][345]LogEditorViewport: Clicking on Actor (LMB): Door_01_C (Door_15)
+[2019.06.02-22.27.44:176][857]Cmd: TRANSACTION UNDO
+[2019.06.02-22.27.44:176][857]LogEditorTransaction: Undo 액터 회전
+[2019.06.02-22.27.44:897][909]Cmd: TRANSACTION UNDO
+[2019.06.02-22.27.44:897][909]LogEditorTransaction: Undo 액터 클릭
+[2019.06.02-22.27.48:721][300]Cmd: TRANSACTION UNDO
+[2019.06.02-22.27.48:721][300]LogEditorTransaction: Undo 액터 삭제
+[2019.06.02-22.27.50:517][414]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.02-22.27.51:827][535]LogEditorViewport: Clicking on Actor (LMB): Door_01_C (Door_15)
+[2019.06.02-22.27.55:792][932]Cmd: TRANSACTION UNDO
+[2019.06.02-22.27.55:792][932]LogEditorTransaction: Undo 액터 회전
+[2019.06.02-22.28.03:833][590]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Room_technicals)
+[2019.06.02-22.28.04:420][620]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Roof_01_Details_d)
+[2019.06.02-22.28.07:236][870]LogEditorViewport: Clicking on Actor (LMB): Door_01_C (Door_15)
+[2019.06.02-22.28.08:414][980]LogEditorViewport: Clicking on Actor (LMB): DecalActor (DecalActor21)
+[2019.06.02-22.28.09:440][ 70]LogEditorViewport: Clicking on Actor (LMB): Door_01_C (Door_15)
+[2019.06.02-22.28.15:128][640]Cmd: TRANSACTION UNDO
+[2019.06.02-22.28.15:128][640]LogEditorTransaction: Undo 액터 회전
+[2019.06.02-22.28.17:278][816]LogEditorViewport: Clicking on Actor (LMB): Door_01_C (Door_5)
+[2019.06.02-22.28.20:614][157]Cmd: TRANSACTION UNDO
+[2019.06.02-22.28.20:614][157]LogEditorTransaction: Undo 액터 회전
+[2019.06.02-22.28.30:025][ 25]LogEditorViewport: Clicking on Actor (LMB): Door_01_C (Door_5)
+[2019.06.02-22.28.30:174][ 39]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (DoorGlass_01)
+[2019.06.02-22.28.30:600][ 78]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (DoorGlass_01)
+[2019.06.02-22.28.31:137][127]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (DoorGlass_01)
+[2019.06.02-22.28.31:711][181]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (DoorGlass_01)
+[2019.06.02-22.28.32:586][274]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (DoorGlass_01)
+[2019.06.02-22.28.33:211][332]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (DoorGlass_01)
+[2019.06.02-22.28.34:900][508]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.02-22.28.36:972][712]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_int_01_b)
+[2019.06.02-22.28.38:959][901]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.02-22.28.41:031][ 96]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_01_a)
+[2019.06.02-22.28.41:534][138]LogEditorViewport: Clicking on Actor (LMB): Door_01_C (Door_5)
+[2019.06.02-22.28.43:198][293]LogEditorViewport: Clicking on Actor (LMB): Door_01_C (Door_5)
+[2019.06.02-22.28.43:683][340]LogEditorViewport: Clicking on Actor (LMB): Door_01_C (Door_5)
+[2019.06.02-22.28.44:407][411]LogEditorViewport: Clicking on Actor (LMB): Door_01_C (Door_5)
+[2019.06.02-22.28.44:933][457]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_01_a)
+[2019.06.02-22.28.45:519][512]LogEditorViewport: Clicking on Actor (LMB): Door_01_C (Door_5)
+[2019.06.02-22.28.52:784][234]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.02-22.28.54:596][405]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_01_a)
+[2019.06.02-22.28.55:344][475]LogEditorViewport: Clicking on Actor (LMB): Door_01_C (Door_5)
+[2019.06.02-22.28.58:825][802]LogEditorViewport: Clicking on Actor (LMB): Door_01_C (Door_15)
+[2019.06.02-22.28.59:533][867]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor_01_a)
+[2019.06.02-22.28.59:595][867]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.02-22.29.00:714][969]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_01_a)
+[2019.06.02-22.29.13:240][233]LogEditorViewport: Clicking on Actor (LMB): Door_01_C (Door_6)
+[2019.06.02-22.29.16:672][592]Cmd: TRANSACTION UNDO
+[2019.06.02-22.29.16:672][592]LogEditorTransaction: Undo 액터 회전
+[2019.06.02-22.29.19:003][808]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.02-22.29.31:206][ 93]Cmd: TRANSACTION UNDO
+[2019.06.02-22.29.31:207][ 93]LogEditorTransaction: Undo 액터 회전
+[2019.06.02-22.29.33:029][238]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.02-22.29.36:157][555]Cmd: TRANSACTION UNDO
+[2019.06.02-22.29.36:157][555]LogEditorTransaction: Undo 액터 회전
+[2019.06.02-22.29.38:100][722]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.02-22.29.41:883][ 84]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Build_01_c)
+[2019.06.02-22.29.45:712][397]LogEditorViewport: Clicking on Actor (LMB): Couplboard_02_C (Couplboard_8)
+[2019.06.02-22.29.48:831][610]Cmd: TRANSACTION UNDO
+[2019.06.02-22.29.48:831][610]LogEditorTransaction: Undo 액터 회전
+[2019.06.02-22.29.49:991][679]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Puff_44)
+[2019.06.02-22.29.50:541][710]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (libary)
+[2019.06.02-22.29.56:735][178]LogEditorViewport: Clicking on Actor (LMB): Door_01_C (Door_15)
+[2019.06.02-22.29.59:201][383]LogEditorViewport: Clicking on Actor (LMB): Door_01_C (Door_5)
+[2019.06.02-22.30.00:846][541]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_int_01_b)
+[2019.06.02-22.30.01:486][596]LogEditorViewport: Clicking on Actor (LMB): Door_01_C (Door_5)
+[2019.06.02-22.30.05:391][982]LogEditorViewport: Clicking on Actor (LMB): Door_01_C (Door_5)
+[2019.06.02-22.30.05:514][988]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (DoorGlass_01)
+[2019.06.02-22.30.05:920][ 20]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (DoorGlass_01)
+[2019.06.02-22.30.06:711][ 91]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (DoorGlass_01)
+[2019.06.02-22.30.06:817][ 98]LogEditorViewport: Clicking on Actor (double click): Door_01_C (Door_5)
+[2019.06.02-22.30.08:004][211]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.02-22.30.19:403][892]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.02-22.30.27:700][404]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.02-22.30.55:219][944]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.02-22.30.58:381][134]LogEditorTransaction: Undo 컴포넌트 변경
+[2019.06.02-22.31.02:041][296]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.02-22.31.06:136][581]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.02-22.31.09:488][775]LogEditorTransaction: Undo 컴포넌트 변경
+[2019.06.02-22.31.11:170][863]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.02-22.31.17:573][146]LogSlate: Window '마티네를 레벨 시퀀스 애셋으로 변환' being destroyed
+[2019.06.02-22.31.17:579][146]LogInit: Transaction tracking system initialized
+[2019.06.02-22.31.17:579][146]EditorErrors: New page: 마티네 초기화
+[2019.06.02-22.31.36:571][233]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.02-22.31.58:974][220]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.02-22.32.44:728][323]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.02-22.33.04:403][570]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.02-22.33.34:845][965]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.02-22.33.37:301][110]BlueprintLog: New page: Door_01 컴파일
+[2019.06.02-22.33.37:805][110]LogUObjectHash: Compacting FUObjectHashTables data took   4.72ms
+[2019.06.02-22.33.46:437][611]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.02-22.33.51:461][905]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.02-22.34.11:879][291]LogEditorViewport: Clicking on Actor (LMB): Door_01_C (Door_5)
+[2019.06.02-22.34.16:242][542]Cmd: TRANSACTION UNDO
+[2019.06.02-22.34.16:243][542]LogEditorTransaction: Undo 키프레임 업데이트
+[2019.06.02-22.34.17:280][602]Cmd: TRANSACTION UNDO
+[2019.06.02-22.34.17:280][602]LogEditorTransaction: Undo 키프레임 업데이트
+[2019.06.02-22.34.18:011][645]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_01_a)
+[2019.06.02-22.34.18:461][662]Cmd: TRANSACTION UNDO
+[2019.06.02-22.34.18:461][662]LogEditorTransaction: Undo 키 추가
+[2019.06.02-22.34.19:393][715]LogEditorViewport: Clicking on Actor (LMB): Door_01_C (Door_5)
+[2019.06.02-22.34.20:173][757]Cmd: TRANSACTION UNDO
+[2019.06.02-22.34.20:173][757]LogEditorTransaction: Undo 선택된 키 삭제
+[2019.06.02-22.34.26:299][ 89]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_01_a)
+[2019.06.02-22.34.26:920][118]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor_01_a)
+[2019.06.02-22.34.26:953][118]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.02-22.34.27:657][152]LogEditorViewport: Clicking on Actor (LMB): Door_01_C (Door_5)
+[2019.06.02-22.34.40:695][888]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.02-22.34.43:017][ 47]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.02-22.34.47:949][324]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.02-22.34.50:925][505]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.02-22.35.03:521][371]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.02-22.35.09:381][729]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.02-22.35.11:602][849]LogEditorViewport: Clicking on Actor (LMB): Door_01_C (Door_5)
+[2019.06.02-22.35.12:208][886]LogEditorViewport: Clicking on Actor (LMB): Door_01_C (Door_5)
+[2019.06.02-22.35.13:042][938]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.02-22.35.18:078][269]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.02-22.35.37:296][327]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.02-22.35.51:809][346]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.02-22.36.06:975][187]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.02-22.36.07:175][198]LogEditorViewport: Clicking on Actor (LMB): Door_01_C (Door_5)
+[2019.06.02-22.36.11:665][402]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_01_b)
+[2019.06.02-22.36.13:459][504]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_01_a)
+[2019.06.02-22.36.14:361][546]LogEditorViewport: Clicking on Actor (LMB): Door_01_C (Door_5)
+[2019.06.02-22.36.18:736][736]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.02-22.36.18:867][742]BlueprintLog: New page: Door_01 컴파일
+[2019.06.02-22.36.19:230][742]LogUObjectHash: Compacting FUObjectHashTables data took   5.96ms
+[2019.06.02-22.36.33:379][748]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.02-22.36.42:621][248]LogEditorViewport: Clicking on Actor (LMB): Door_01_C (Door_5)
+[2019.06.02-22.36.49:064][696]Cmd: TRANSACTION UNDO
+[2019.06.02-22.36.49:064][696]LogEditorTransaction: Undo 키프레임 업데이트
+[2019.06.02-22.36.51:139][836]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.02-22.36.52:887][892]Cmd: TRANSACTION UNDO
+[2019.06.02-22.36.52:888][892]LogEditorTransaction: Undo 키 추가
+[2019.06.02-22.36.53:706][935]LogEditorTransaction: Undo 키 추가
+[2019.06.02-22.36.54:192][962]LogEditorTransaction: Undo 선택된 키 삭제
+[2019.06.02-22.36.54:659][985]LogEditorTransaction: Undo 새 트랙
+[2019.06.02-22.37.01:656][369]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.02-22.37.07:729][890]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.06.02-22.37.07:730][890]LogWindows: Windows GetLastError: 작업을 완료했습니다. (0)
